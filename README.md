@@ -94,8 +94,8 @@ A comprehensive cybersecurity training platform featuring simulated phishing cam
 
 #### 1. **Clone Repository**
 ```bash
-git clone https://github.com/mshawa77/securproject1.git
-cd securproject1/securproject1-main
+git clone https://github.com/mshawa77/SECUREPHISH.git
+cd SECUREPHISH
 ```
 
 #### 2. **Create Virtual Environment**
@@ -441,7 +441,7 @@ We welcome community contributions:
 
 For support and inquiries:
 - Email: mohammadshawabkeh693@gamil.com
-- Repository: https://github.com/mshawa77/securproject1
+- Repository: https://github.com/mshawa77/SECUREPHISH
 - Additional documentation: docs/ folder
 
 ---
