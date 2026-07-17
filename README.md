@@ -458,7 +458,6 @@ We welcome community contributions:
 
 For support and inquiries:
 - Email: mohammadshawabkeh693@gamil.com
-- Additional documentation: docs/ folder
 
 ---
 
