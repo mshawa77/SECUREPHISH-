@@ -440,7 +440,7 @@ We welcome community contributions:
 ## 📧 Contact Information
 
 For support and inquiries:
-- Email: admin@securephish.com
+- Email: mohammadshawabkeh693@gamil.com
 - Repository: https://github.com/mshawa77/securproject1
 - Additional documentation: docs/ folder
 
