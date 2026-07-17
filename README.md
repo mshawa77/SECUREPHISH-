@@ -1,27 +1,18 @@
+<hr>
+
+<h3 align="center">📺 شاهد الفيديو التعريفي لمنصة SECUREPHISH وطريقة عملها</h3>
+<p align="center">اضغط على الصورة أدناه لمشاهدة شرح كامل وشامل للنظام والتعرف على ميزاته</p>
+
+<h3 align="center">📺 Watch SECUREPHISH Video Demo & How it Works</h3>
+<p align="center">Click on the image below to watch the full platform overview and walkthrough on YouTube</p>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=TTq6y0GYjLE">
-    <img src="https://img.youtube.com/vi/TTq6y0GYjLE/hqdefault.jpg" alt="SECUREPHISH Video Demo" width="600">
+    <img src="https://img.youtube.com/vi/TTq6y0GYjLE/hqdefault.jpg" alt="SECUREPHISH Video Demo" width="600" style="border-radius: 8px;">
   </a>
-</p><img width="646" height="580" alt="19" src="https://github.com/user-attachments/assets/e0eb32bf-2e89-4269-bb7d-ef1c52a9f687" />
-<img width="785" height="589" alt="18" src="https://github.com/user-attachments/assets/1d864a29-9ba1-40a7-9563-9548759ab8ab" />
-<img width="762" height="593" alt="17" src="https://github.com/user-attachments/assets/e997174e-2c8d-44df-b7d2-2b54f7a79d5e" />
-<img width="1354" height="593" alt="15" src="https://github.com/user-attachments/assets/5edfbdb7-707b-4191-a78f-e1c85e9454f0" />
-<img width="1363" height="597" alt="14" src="https://github.com/user-attachments/assets/82560395-791b-47c2-929e-c03972ae4957" />
-<img width="1346" height="595" alt="13" src="https://github.com/user-attachments/assets/4ab494a4-5743-42ab-a083-2a129e6cdd21" />
-<img width="1359" height="593" alt="12" src="https://github.com/user-attachments/assets/abc7dd3f-f144-40ed-b1fb-a27512afb933" />
-<img width="1363" height="594" alt="11" src="https://github.com/user-attachments/assets/f5ab4461-3ec5-4bc0-8431-b481fc6ee6a0" />
-<img width="1363" height="596" alt="10" src="https://github.com/user-attachments/assets/cc9aa282-bdf0-41a1-9f47-e17320443d2b" />
-<img width="1360" height="595" alt="9" src="https://github.com/user-attachments/assets/54b87889-4603-43c5-9003-aded83480938" />
-<img width="1361" height="599" alt="8" src="https://github.com/user-attachments/assets/f8c56481-bae9-42a4-a0f6-dc4c65a2fe6f" />
-<img width="1344" height="597" alt="7" src="https://github.com/user-attachments/assets/4ce9bcdb-716b-4e40-9d2c-be45be28b04c" />
-<img width="1355" height="597" alt="6" src="https://github.com/user-attachments/assets/ea495906-b4e5-4e26-850b-06d47369ab6f" />
-<img width="1363" height="597" alt="5" src="https://github.com/user-attachments/assets/30edaf85-c6fe-4efb-87ce-ac35dfa6850a" />
-<img width="1362" height="595" alt="4" src="https://github.com/user-attachments/assets/a2d8014c-c9fd-4320-8d06-7702b964e03f" />
-<img width="1360" height="599" alt="3" src="https://github.com/user-attachments/assets/52796a3b-4f65-4774-983d-ebbbda95268c" />
-<img width="1363" height="599" alt="2" src="https://github.com/user-attachments/assets/10971feb-a0b2-4f57-87f4-41be233bf5e3" />
-<img width="1363" height="595" alt="1" src="https://github.com/user-attachments/assets/b35a837a-3ab9-4b17-92ac-9dc3a0e087e0" />
+</p>
 
-
+<hr>
 
 
 # 🔐 SECUREPHISH - Advanced Cybersecurity Training Platform
