@@ -16,8 +16,7 @@
 <img width="1360" height="599" alt="3" src="https://github.com/user-attachments/assets/52796a3b-4f65-4774-983d-ebbbda95268c" />
 <img width="1363" height="599" alt="2" src="https://github.com/user-attachments/assets/10971feb-a0b2-4f57-87f4-41be233bf5e3" />
 <img width="1363" height="595" alt="1" src="https://github.com/user-attachments/assets/b35a837a-3ab9-4b17-92ac-9dc3a0e087e0" />
-[![شاهد فيديو تشغيل المشروع](https://img.youtube.com/vi/[YOUR_VIDEO_ID](https://youtu.be/TTq6y0GYjLE)/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+[![شاهد فيديو تشغيل المشروع](https://img.youtube.com/vi/TTq6y0GYjLE/0.jpg)](https://www.youtube.com/watch?v=TTq6y0GYjLE)
 
 
 
