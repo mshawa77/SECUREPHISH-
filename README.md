@@ -1,5 +1,8 @@
-https://img.youtube.com/vi/TTq6y0GYjLE/0.jpg)](https://www.youtube.com/watch?v=TTq6y0GYjLE
-<img width="646" height="580" alt="19" src="https://github.com/user-attachments/assets/e0eb32bf-2e89-4269-bb7d-ef1c52a9f687" />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TTq6y0GYjLE">
+    <img src="https://img.youtube.com/vi/TTq6y0GYjLE/hqdefault.jpg" alt="SECUREPHISH Video Demo" width="600">
+  </a>
+</p><img width="646" height="580" alt="19" src="https://github.com/user-attachments/assets/e0eb32bf-2e89-4269-bb7d-ef1c52a9f687" />
 <img width="785" height="589" alt="18" src="https://github.com/user-attachments/assets/1d864a29-9ba1-40a7-9563-9548759ab8ab" />
 <img width="762" height="593" alt="17" src="https://github.com/user-attachments/assets/e997174e-2c8d-44df-b7d2-2b54f7a79d5e" />
 <img width="1354" height="593" alt="15" src="https://github.com/user-attachments/assets/5edfbdb7-707b-4191-a78f-e1c85e9454f0" />
